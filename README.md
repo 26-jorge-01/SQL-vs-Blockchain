@@ -11,11 +11,13 @@ Repositorio creado para presentar las nociones básicas sobre Blockchain, SQL y 
 - [Web3 for Python](https://github.com/ethereum/web3.py)
 - [Pymssql for Python](https://pymssql.readthedocs.io/en/latest/)
 - [Metamask](https://metamask.io/es/)
+- [Infura](https://www.infura.io/)
 
 ## Enlaces de interés
 
 - [Git](https://git-scm.com/)
 - [PyPI](https://pypi.org/)
+- [Infura docs](https://docs.infura.io/api)
 - [Google Colab](https://colab.research.google.com/)
 - [NumPy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
