@@ -12,6 +12,7 @@ Repositorio creado para presentar las nociones básicas sobre Blockchain, SQL y 
 - [Pymssql for Python](https://pymssql.readthedocs.io/en/latest/)
 - [Metamask](https://metamask.io/es/)
 - [Infura](https://www.infura.io/)
+- [dbfiddle](https://dbfiddle.uk/)
 
 ## Enlaces de interés
 
